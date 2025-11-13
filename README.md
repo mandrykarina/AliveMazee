@@ -1,0 +1,2 @@
+# AliveMazee
+game
